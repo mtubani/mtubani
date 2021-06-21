@@ -1,4 +1,4 @@
-### 🔭 I’m currently working on forecasting
+### 🔭 I’m working on forecasting
 
 <!--
 **mtubani/mtubani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
