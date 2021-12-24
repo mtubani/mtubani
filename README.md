@@ -1,16 +1,8 @@
-### 🔭 I’m working on economics
+### 🔭 I’m working on financial economics
+My favorite operating system is Manjaro. My favorite DE is KDE. 
+My favorite programming language is Python.
 
 <!--
 **mtubani/mtubani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on economics
-- 🌱 I’m currently learning forecasting
-- 👯 I’m looking to collaborate on forecasting
-- 🤔 I’m looking for help with forecasting
-- 💬 Ask me about forecasting
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
