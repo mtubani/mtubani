@@ -1,5 +1,5 @@
 #### I’m working on financial economics.
-#### My favorite operating system is Manjaro (https://manjaro.org/). My favorite desktop environment is Plasma by KDE (https://kde.org/plasma-desktop/). 
+#### My favorite OSs are Fedora (https://getfedora.org/) and Manjaro (https://manjaro.org/).
 #### My favorite programming language is Python.
 
 <!--
