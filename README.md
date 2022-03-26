@@ -1,5 +1,5 @@
 #### I’m working on financial economics.
-#### My favorite OSs are Fedora (https://getfedora.org/) and Manjaro (https://manjaro.org/).
+#### My favorite OS is Fedora Linux (https://getfedora.org/).
 #### My favorite programming language is Python.
 
 <!--
