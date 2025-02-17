@@ -1,6 +1,6 @@
-#### I deal with data analysis. My approach is data-driven, bearing in mind the whole environment I work in. Data analysis is therefore completed with the work experience gained in three main areas: the institutional-political field, the business associations and non-profit sectors.
+#### I specialize in data analysis. My approach is data-driven, considering the entire environment in which I work. Therefore, my data analysis is complemented by the work experience I have gained in three main areas: the institutional-political field, business associations, and the non-profit sector.  
 
-#### And, by the way, don't use Windows, macOS, Debian-based or Arch-based distros. Use Arch Linux.
+#### By the way, I recommend using Arch Linux instead of Windows, macOS, or Debian-based distributions.
 <!--
 **mtubani/mtubani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
